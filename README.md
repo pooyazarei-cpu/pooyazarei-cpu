@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**pooyazarei-cpu/pooyazarei-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pooyazarei-cpu/pooyazarei-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 # Hi, I'm Pooya Zarei 👋
 
@@ -30,5 +30,4 @@ I created this dedicated GitHub profile specifically for:
 * Architecting robust streaming pipelines to reliably move Master Data at enterprise scale.
 * Leveraging AI-augmented development tools to accelerate software delivery without sacrificing security or stability.
 
----
-📫 **Let's Connect:** [pooyazarei@gmail.com](mailto:pooyazarei@gmail.com) | Location: Rotterdam, Netherlands
+
